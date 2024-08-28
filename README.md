@@ -65,6 +65,22 @@ BetBlock provides a decentralized gaming platform on the BNB Chain, Gaming integ
 - **IPFS:** Decentralized storage for NFT metadata and assets.
 - **Frontend:** React, TypeScript, and Web3.js for a responsive user interface.
 
+### Deployed Contract Addresses:
+**OpBNB:**
+- Solts: https://testnet.opbnbscan.com/address/0x7Fa16B4A0eaFE184b3A9DBeD9ab3A50f8ff2D6cf
+- LendingBorrowingContract: https://testnet.opbnbscan.com/address/0x085d78a164548431d11c17d8433D8DA352a2fEd6
+- BaseCase: https://testnet.opbnbscan.com/address/0x67ff60619A65090d35523dA1D88309D2f9702aFd
+- ProfileNFTContract: https://testnet.opbnbscan.com/address/0xbEC80eAa006f4ccA2d9983eeB3F6189048F14c07
+- Roulette: https://testnet.opbnbscan.com/address/0x98A122918C8e042CF955f1B10A81EE63461F3cb7
+
+**BNB:**
+- 0x69720fB14C6e419f7F579B045f0de63cfC16E37A
+- 0xd2859d40fa8DE914e1Ca231c6346B83d90C5A55f
+- 0x085d78a164548431d11c17d8433D8DA352a2fEd6
+- 0x1bcF6A92c9815AE1617876BB24b9455A2a8D9b23
+- 0x67ff60619A65090d35523dA1D88309D2f9702aFd
+- 0xb49a88d33142c1eBE0054a9712883eC11b2d92E1
+
 ### What's next
 All though started as a idea but now we are thinking to carry forward as a business model and expand further.
 
