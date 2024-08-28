@@ -65,7 +65,7 @@ BetBlock provides a decentralized gaming platform on the BNB Chain, Gaming integ
 - **IPFS:** Decentralized storage for NFT metadata and assets.
 - **Frontend:** React, TypeScript, and Web3.js for a responsive user interface.
 
-### Deployed Contract Addresses:
+### All Contracts are deployed on BNB, OpBNB, Dego.Finance:
 **OpBNB:**
 - Solts: https://testnet.opbnbscan.com/address/0x7Fa16B4A0eaFE184b3A9DBeD9ab3A50f8ff2D6cf
 - LendingBorrowingContract: https://testnet.opbnbscan.com/address/0x085d78a164548431d11c17d8433D8DA352a2fEd6
@@ -80,6 +80,26 @@ BetBlock provides a decentralized gaming platform on the BNB Chain, Gaming integ
 - 0x1bcF6A92c9815AE1617876BB24b9455A2a8D9b23
 - 0x67ff60619A65090d35523dA1D88309D2f9702aFd
 - 0xb49a88d33142c1eBE0054a9712883eC11b2d92E1
+
+![captures_chrome-capture-2024-7-28 (3).png](https://cdn.dorahacks.io/static/files/1919a3e69125ebdb51f4b864568b992c.png)
+
+![captures_chrome-capture-2024-7-28 (4).png](https://cdn.dorahacks.io/static/files/1919a3e88ee17fb0948670741c8831f3.png)
+
+![captures_chrome-capture-2024-7-28 (5).png](https://cdn.dorahacks.io/static/files/1919a3ea3a1983c961d9d044ee0bbc7a.png)
+
+![captures_chrome-capture-2024-7-28 (6).png](https://cdn.dorahacks.io/static/files/1919a3ec5fbeefc4d2e5136479dac67b.png)
+
+![captures_chrome-capture-2024-7-28 (7).png](https://cdn.dorahacks.io/static/files/1919a3ee5221cabe214ba58472680a62.png)
+
+![captures_chrome-capture-2024-7-28 (8).png](https://cdn.dorahacks.io/static/files/1919a3f0ae5dd516792bf764f33a2df4.png)
+
+![captures_chrome-capture-2024-7-28 (9).png](https://cdn.dorahacks.io/static/files/1919a3f40048e0838b1ec0b465e839d0.png)
+
+![captures_chrome-capture-2024-7-28 (10).png](https://cdn.dorahacks.io/static/files/1919a3f63e3630e624675014260afd29.png)
+
+![captures_chrome-capture-2024-7-28 (11).png](https://cdn.dorahacks.io/static/files/1919a3f8120b3b8a09be2e946dd9ea33.png)
+
+![captures_chrome-capture-2024-7-28 (12).png](https://cdn.dorahacks.io/static/files/1919a3fa17f5e23228046fe4585a905b.png)
 
 ### What's next
 All though started as a idea but now we are thinking to carry forward as a business model and expand further.
